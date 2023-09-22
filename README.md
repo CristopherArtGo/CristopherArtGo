@@ -15,14 +15,14 @@
 
 <h2>About Me</h2>
 
-👨‍💻I'm Cristopher, a Project Manager in the Philippines.
-- :telescope: I’m currently working as a Project Manager for SAP ERP solutions.
+👨‍💻I'm Cristopher, a Project Manager in the Philippines🇵🇭.
+- 📊 I’m currently working as a Project Manager for SAP ERP solutions.
 
-- :seedling: Exploring Web Development, specifically front end web development.
+- 🌱 Exploring Web Development, specifically front end web development.
 
-- :zap: In my free time, I'm studying and learning web development using open source technologies.
+- 📖 In my free time, I'm studying and learning web development using open source technologies.
 
-- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/cristopher-art-go-842835196/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+- 📬 How to reach me: <a href="https://www.linkedin.com/in/cristopher-art-go-842835196/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 Most of my projects are related to The Odin Project Curriculum, so feel free to review and comment on them.
 
