@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/R12kzU7aoYqDJs6C4H/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/R12kzU7aoYqDJs6C4H/giphy.gif" width="400"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/cristopher-art-go-842835196/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><br>
     <img src="https://komarev.com/ghpvc/?username=CristopherArtGo&style=flat-square&color=blue" alt=""/>
