@@ -1,16 +1,10 @@
 <div id="header" align="center">
-  <img src="https://github.com/CristopherArtGo/landing-page/blob/main/PROJECT%20H/vecteezy_hype-freelancer-in-beanie-hat-work-in-the-room-cartoon-for_.jpg" width="200"/><br>
-  <a href="vecteezy.com">Veecteezy.com</a>
+  <img src="https://media.giphy.com/media/R12kzU7aoYqDJs6C4H/giphy.gif" width="200"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/cristopher-art-go-842835196/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><br>
     <img src="https://komarev.com/ghpvc/?username=CristopherArtGo&style=flat-square&color=blue" alt=""/>
   </div>
-</div>
-
-
-# Hi there! 👋☕️
-<div align="center">
-    <img src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif" width="400" />
+  <h1>Hi there! 👋☕️</h1>
 </div>
 
 <h2>About Me</h2>
