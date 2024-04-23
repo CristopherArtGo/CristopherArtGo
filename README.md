@@ -12,7 +12,7 @@
 👨‍💻I'm Cristopher, a Project Manager in the Philippines🇵🇭.
 - 📊 I’m currently working as a Project Manager for SAP ERP solutions.
 
-- 🌱 Exploring Web Development, specifically front end web development.
+- 🌱 Exploring Full Stack Web Development.
 
 - 📖 In my free time, I'm studying and learning web development using open source technologies.
 
