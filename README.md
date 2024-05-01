@@ -18,7 +18,7 @@
 
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/cristopher-art-go-842835196/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-Most of my projects are related to The Odin Project Curriculum, so feel free to review and comment on them.
+Feel free to review and comment on any of my projects or repositories.
 
 ---
 
