@@ -9,12 +9,12 @@
 
 <h2>About Me</h2>
 
-👨‍💻I'm Cristopher, a Project Manager in the Philippines🇵🇭.
-- 📊 I’m currently working as a Project Manager for SAP ERP solutions.
+👨‍💻I'm Cristopher, a software engineer in the Philippines🇵🇭.
+- 📊 I used to work as a Project Manager for SAP ERP solutions.
 
-- 🌱 Exploring Full Stack Web Development.
+- 🌱 Exploring more technical roles like web development and data science.
 
-- 📖 In my free time, I'm studying and learning web development using open sourced technologies.
+- 📖 In my free time, I'm studying and learning open sourced technologies.
 
 - 📬 How to reach me: <a href="https://www.linkedin.com/in/cristopher-art-go-842835196/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
