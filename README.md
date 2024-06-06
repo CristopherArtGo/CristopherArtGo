@@ -41,6 +41,7 @@ Feel free to review and comment on any of my projects or repositories.
   <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" title="Rspec" **alt="Rspec" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" title="Electron" **alt="Electron" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" title="SQLite" **alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PosgreSQL" **alt="PosgreSQL" width="40" height="40"/>&nbsp;
